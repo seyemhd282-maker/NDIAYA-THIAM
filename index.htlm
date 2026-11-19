@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="fr"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#09070a">
+<meta name="description" content="Ndiaya Thiam — tresses et coiffure à Guédiawaye Hamo Teffes. Contact et réservation.">
+<title>Ndiaya Thiam | Tresses & Coiffure</title>
+<style>
+:root{--gold:#e7bd62;--pink:#f08ab5;--ink:#09070a;--cream:#fff8ef}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#0b090b;color:var(--cream);font-family:Arial,Helvetica,sans-serif}
+a{color:inherit;text-decoration:none}.wrap{width:min(1120px,92%);margin:auto}
+header{position:sticky;top:0;z-index:5;background:rgba(9,7,10,.95);backdrop-filter:blur(12px);border-bottom:1px solid #8b692f}
+.nav{display:flex;align-items:center;justify-content:space-between;padding:12px 0;gap:16px}.brand{display:flex;align-items:center;gap:12px;font-weight:800;color:var(--gold);letter-spacing:.04em}.brand img{width:48px;height:48px;object-fit:cover;border-radius:50%;border:2px solid var(--gold)}
+nav{display:flex;gap:20px;font-size:14px;color:#f6e9d3}nav a:hover{color:var(--pink)}
+.hero{padding:55px 0 45px;background:radial-gradient(ellipse at 75% 15%,#56351d 0,transparent 42%),linear-gradient(135deg,#09070a,#21111d 65%,#09070a)}
+.hero-grid{display:grid;grid-template-columns:1.1fr .9fr;align-items:center;gap:34px}.eyebrow{color:var(--pink);text-transform:uppercase;letter-spacing:.2em;font-size:12px;font-weight:bold}
+h1{font-family:Georgia,serif;font-size:clamp(42px,7vw,76px);line-height:.98;color:var(--gold);margin:14px 0}h1 span{display:block;color:#fff4e5;font-size:.48em;letter-spacing:.04em;margin-top:14px}
+.hero p{line-height:1.7;color:#eadfce;max-width:590px}.hero-logo{width:min(100%,420px);display:block;margin:auto;border-radius:22px;border:1px solid #b98c42;box-shadow:0 20px 70px #0009}
+.actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:24px}.btn{display:inline-flex;align-items:center;justify-content:center;padding:13px 19px;border-radius:30px;font-weight:800}.primary{background:var(--gold);color:#1a1008}.secondary{border:1px solid var(--pink);color:#ffe5f0}
+section{padding:56px 0}.section-title{text-align:center;margin:0 0 10px;color:var(--gold);font:bold clamp(30px,4vw,42px) Georgia,serif}.sub{text-align:center;color:#d7c9b9;margin:0 auto 30px;max-width:650px;line-height:1.6}
+.gallery{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.tile{background:#171217;border:1px solid #5d4729;border-radius:15px;overflow:hidden;transition:.2s}.tile:hover{transform:translateY(-4px);border-color:var(--pink)}.tile img{width:100%;height:245px;object-fit:cover;display:block}.tile h3{font-size:14px;padding:0 12px 12px;margin:12px 0 0;color:#f8e7cb}
+.info{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.info article{background:linear-gradient(145deg,#21151e,#120e12);border:1px solid #70532b;border-radius:16px;padding:22px;text-align:center}.info b{display:block;color:var(--gold);font-size:18px;margin:8px 0}.info p{color:#e7d9ca;line-height:1.6;margin:6px 0}
+.contact{background:linear-gradient(120deg,#241321,#100c10);border-top:1px solid #76582e;border-bottom:1px solid #76582e}.contact-box{text-align:center}.contact-box p{line-height:1.8;color:#eadfce}.contact-links{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin-top:20px}
+footer{text-align:center;padding:25px;color:#c9b9a5;font-size:13px}footer strong{color:var(--gold)}
+@media(max-width:800px){.hero-grid{grid-template-columns:1fr}.hero-logo{max-width:300px}nav{gap:10px;font-size:12px}.gallery{grid-template-columns:repeat(2,1fr)}.tile img{height:220px}.info{grid-template-columns:1fr}}
+@media(max-width:430px){.brand{font-size:12px}nav a:nth-child(2){display:none}.tile img{height:190px}.hero{padding-top:35px}}
+</style></head><body>
+<header><div class="wrap nav">
